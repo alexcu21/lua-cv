@@ -1,0 +1,10 @@
+$baseColor: #c6538c;
+$color: rgba(black, 0.88);
+
+body{
+  background-color: $baseColor;
+  text-align: center;
+  h1{
+    color: $color;
+  }
+}
